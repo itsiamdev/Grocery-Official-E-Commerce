@@ -2,6 +2,8 @@
 
 Welcome to **Grocery@Official**, your one-stop online grocery store! 🍎🥦🛍️ Discover fresh produce, pantry essentials, meats, and more with our easy-to-use platform. Enjoy free delivery, quick search, and seamless shopping experience right from your browser.
 
+🌐 **Live Demo**: [https://iam269.github.io/Grocery-Official-E-Commerce/](https://iam269.github.io/Grocery-Official-E-Commerce/)
+
 ## 🌟 Key Features
 - **🏠 Home Page**: Order your daily groceries with our intuitive search banner.
 - **📂 Categories**: Browse through various categories like fruits, vegetables, meats, and utensils.
